@@ -8,3 +8,7 @@
 Juvenile king penguins waiting for parents to return from foraging
 
 [[English/vocabs/Forage\|English/vocabs/Forage]]
+
+**Wechat**
+
+[[English/Meaning from dict/Tarantula\|English/Meaning from dict/Tarantula]]
