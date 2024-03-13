@@ -16,3 +16,6 @@ Mahjong
 
 [[Japanese/言葉/じゃん☆けん☆ぽん\|じゃん☆けん☆ぽん]]
 
+[[Japanese/辞書からの意味/険しい\|Japanese/辞書からの意味/険しい]]
+![Image_20240313212854.jpg](/img/user/Image_20240313212854.jpg)
+
