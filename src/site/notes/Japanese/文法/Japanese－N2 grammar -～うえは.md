@@ -6,10 +6,10 @@ https://youtu.be/1GcfmfeehhA?si=s_a71QzN3E6Jie7N
 
 1. [00:00:08](https://www.youtube.com/watch?v=1GcfmfeehhA&t=9#t=8.54) 
 - meaning & sentence continuous
-- same meaning as [[Japanese/文法/Japanese－N2 grammar -　～以上#^5d7a58\|Japanese－N2 grammar -　～以上#^5d7a58]]
+- same meaning as [[Japanese/文法/Japanese－N2 grammar -～以上#^5d7a58\|Japanese－N2 grammar -～以上#^5d7a58]]
 { #30e2b0}
 
-- more strictly compared to [[Japanese/文法/Japanese－N2 grammar -　～以上\|Japanese－N2 grammar -　～以上]]
+- more strictly compared to [[Japanese/文法/Japanese－N2 grammar -～以上\|Japanese－N2 grammar -～以上]]
 
 2. [00:03:21](https://www.youtube.com/watch?v=1GcfmfeehhA&t=201#t=03:21.06) 
 - example sentences & conversation
