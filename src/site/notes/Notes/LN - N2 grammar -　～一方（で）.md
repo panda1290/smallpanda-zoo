@@ -2,10 +2,10 @@
 {"dg-publish":true,"link":"https://youtu.be/zCynWJOvLHs?si=SC4sr5qPScvq2j-Y","permalink":"/Notes/LN - N2 grammar -　～一方（で）/","dgPassFrontmatter":true}
 ---
 
-[[Japanese/文法/Japanese - N2 grammar -　～一方（で）#^07575d\|Japanese - N2 grammar -　～一方（で）#^07575d]]
+[[Japanese/文法/Japanese - N2 grammar -～一方（で）#^07575d\|Japanese - N2 grammar -～一方（で）#^07575d]]
 
 彼女は自分の勉強を大事にしてる一方で、家事をしない。
 
-[[Japanese/文法/Japanese - N2 grammar -　～一方（で）#^ce79fc\|Japanese - N2 grammar -　～一方（で）#^ce79fc]]
+[[Japanese/文法/Japanese - N2 grammar -～一方（で）#^ce79fc\|Japanese - N2 grammar -～一方（で）#^ce79fc]]
 
 課長は何もしない一方で、他の人の仕事によく文句を言う。
