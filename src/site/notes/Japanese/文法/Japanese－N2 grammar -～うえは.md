@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"link":"https://youtu.be/1GcfmfeehhA?si=s_a71QzN3E6Jie7N","permalink":"/Japanese－N2 grammar -～うえは/","dgPassFrontmatter":true}
+{"dg-publish":true,"link":"https://youtu.be/1GcfmfeehhA?si=s_a71QzN3E6Jie7N","permalink":"/Japanese/文法/Japanese－N2 grammar -～うえは/","dgPassFrontmatter":true}
 ---
 
 https://youtu.be/1GcfmfeehhA?si=s_a71QzN3E6Jie7N
