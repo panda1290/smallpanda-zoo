@@ -5,23 +5,23 @@
  
 # New Articles:
 
-| Note                                                                                        | Added        |
-| ------------------------------------------------------------------------------------------- | ------------ |
-| [[Notes/Obsidian - post updated index\|Obsidian - post updated index]]                         | Apr 7, 2024  |
-| [[Notes/Obsidian - make notes from YouTube videos\|Obsidian - make notes from YouTube videos]] | Apr 7, 2024  |
-| [[Notes/たら　vs　なら\|たら　vs　なら]]                                                             | Apr 3, 2024  |
-| [[Japanese/言葉/険しい\|険しい]]                                                                 | Mar 13, 2024 |
-| [[Japanese/辞書からの意味/険しい\|険しい]]                                                            | Mar 13, 2024 |
-| [[English/vocabs/Objection\|Objection]]                                                  | Mar 13, 2024 |
-| [[English/Meaning from dict/Objection\|Objection]]                                       | Mar 13, 2024 |
+| Note                                                                        | Added       |
+| --------------------------------------------------------------------------- | ----------- |
+| [[Notes/LN－N2 grammar -～うえは\|LN－N2 grammar -～うえは]]                       | Apr 7, 2024 |
+| [[Japanese/文法/Japanese－N2 grammar -～うえは\|Japanese－N2 grammar -～うえは]]     | Apr 7, 2024 |
+| [[Notes/LN－N2 grammar -～うえで ②\|LN－N2 grammar -～うえで ②]]                   | Apr 7, 2024 |
+| [[Japanese/文法/Japanese－N2 grammar -～うえで ②\|Japanese－N2 grammar -～うえで ②]] | Apr 7, 2024 |
+| [[Notes/LN－N2 grammar -～うえで\|LN－N2 grammar -～うえで]]                       | Apr 7, 2024 |
+| [[Japanese/文法/Japanese－N2 grammar -～うえで\|Japanese－N2 grammar -～うえで]]     | Apr 7, 2024 |
+| [[Notes/LN - N2 grammar -　～一方（で）\|LN - N2 grammar -　～一方（で）]]             | Apr 7, 2024 |
 # Recent Updates:
 
-| Note                                                                                        | Modified              |
-| ------------------------------------------------------------------------------------------- | --------------------- |
-| [[Notes/Obsidian - make notes from YouTube videos\|Obsidian - make notes from YouTube videos]] | Apr 7, 2024, 11:30 AM |
-| [[Notes/Obsidian - post updated index\|Obsidian - post updated index]]                         | Apr 7, 2024, 9:52 AM  |
-| [[Notes/たら　vs　なら\|たら　vs　なら]]                                                             | Apr 3, 2024, 8:41 PM  |
-| [[Japanese/言葉/険しい\|険しい]]                                                                 | Mar 13, 2024, 9:41 PM |
-| [[resources/Other platforms - Japanese\|Other platforms - Japanese]]                     | Mar 13, 2024, 9:41 PM |
-| [[Japanese/辞書からの意味/険しい\|険しい]]                                                            | Mar 13, 2024, 9:40 PM |
-| [[English/vocabs/Objection\|Objection]]                                                  | Mar 13, 2024, 9:24 PM |
+| Note                                                                        | Modified             |
+| --------------------------------------------------------------------------- | -------------------- |
+| [[Notes/LN－N2 grammar -～以上\|LN－N2 grammar -～以上]]                         | Apr 7, 2024, 6:47 PM |
+| [[Notes/LN - N2 grammar -　～一方（で）\|LN - N2 grammar -　～一方（で）]]             | Apr 7, 2024, 4:23 PM |
+| [[Japanese/文法/Japanese－N2 grammar -～うえは\|Japanese－N2 grammar -～うえは]]     | Apr 7, 2024, 4:23 PM |
+| [[Notes/LN－N2 grammar -～うえで\|LN－N2 grammar -～うえで]]                       | Apr 7, 2024, 4:23 PM |
+| [[Notes/LN－N2 grammar -～うえは\|LN－N2 grammar -～うえは]]                       | Apr 7, 2024, 4:20 PM |
+| [[Notes/LN－N2 grammar -～うえで ②\|LN－N2 grammar -～うえで ②]]                   | Apr 7, 2024, 4:07 PM |
+| [[Japanese/文法/Japanese－N2 grammar -～うえで ②\|Japanese－N2 grammar -～うえで ②]] | Apr 7, 2024, 4:06 PM |
