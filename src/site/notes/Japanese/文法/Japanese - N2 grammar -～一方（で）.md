@@ -4,6 +4,7 @@
 
 https://youtu.be/zCynWJOvLHs?si=SC4sr5qPScvq2j-Y
 
+
 1. [00:00:03](https://www.youtube.com/watch?v=zCynWJOvLHs&t=3#t=3.16) 
 - meaning &  sentence continuous
 - A - comparison
