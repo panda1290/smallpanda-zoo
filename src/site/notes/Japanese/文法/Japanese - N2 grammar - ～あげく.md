@@ -4,6 +4,7 @@
 
 https://youtu.be/0TbPGbvdOnk?si=P-20bt56FGTV4YDn
 
+
 1. [00:00:06](https://www.youtube.com/watch?v=0TbPGbvdOnk&t=7#t=6.97) 
 - 接続　＆　意味
 - final - at the end cause something **negative** happened
