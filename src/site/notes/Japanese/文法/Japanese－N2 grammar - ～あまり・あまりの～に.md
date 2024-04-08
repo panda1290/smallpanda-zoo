@@ -4,6 +4,7 @@
 
 https://youtu.be/of-OKemjtIg?si=SVPxyx6m5aGjqYg3
 
+
 1. [00:00:03](https://www.youtube.com/watch?v=of-OKemjtIg&t=4#t=3.52) 
 - 接続　＆　意味
 - An extreme **condition**/**feeling** that lead to the action after
