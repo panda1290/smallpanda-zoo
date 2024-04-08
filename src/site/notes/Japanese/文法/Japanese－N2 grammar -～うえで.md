@@ -10,15 +10,15 @@ https://youtu.be/0PP3iRUEyPY?si=-TrKzkbS2ihxPy7o
 - to specify an important thing
 { #8e2bc5}
 
-- 
-- [00:03:40](https://www.youtube.com/watch?v=0PP3iRUEyPY&t=221#t=03:40.58) 
+
+2. [00:03:40](https://www.youtube.com/watch?v=0PP3iRUEyPY&t=221#t=03:40.58) 
 - example sentences
-- 
-- [00:04:19](https://www.youtube.com/watch?v=0PP3iRUEyPY&t=259#t=04:19.04) 
+
+3. [00:04:19](https://www.youtube.com/watch?v=0PP3iRUEyPY&t=259#t=04:19.04) 
 - conversation
 
-- [00:05:02](https://www.youtube.com/watch?v=0PP3iRUEyPY&t=303#t=05:02.84) 
+4. [00:05:02](https://www.youtube.com/watch?v=0PP3iRUEyPY&t=303#t=05:02.84) 
 - exercise
-- 
-- [00:05:23](https://www.youtube.com/watch?v=0PP3iRUEyPY&t=323#t=05:23.28) 
+
+5. [00:05:23](https://www.youtube.com/watch?v=0PP3iRUEyPY&t=323#t=05:23.28) 
 - answer
