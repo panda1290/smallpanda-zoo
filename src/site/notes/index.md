@@ -5,23 +5,23 @@
  
 # New Articles:
 
-| Note                                                                                    | Added        |
-| --------------------------------------------------------------------------------------- | ------------ |
-| [[Notes/LN - N2 grammar -～げ\|LN - N2 grammar -～げ]]                                   | Apr 10, 2024 |
-| [[Japanese/文法/Japanese - N2 grammar -～げ\|Japanese - N2 grammar -～げ]]                 | Apr 10, 2024 |
-| [[Notes/LN - N2 grammar -～くせに・～くせして\|LN - N2 grammar -～くせに・～くせして]]                   | Apr 10, 2024 |
-| [[Japanese/文法/Japanese - N2 grammar -～くせに・～くせして\|Japanese - N2 grammar -～くせに・～くせして]] | Apr 10, 2024 |
-| [[Notes/LN - N2 grammar -～きり\|LN - N2 grammar -～きり]]                                 | Apr 10, 2024 |
-| [[Japanese/文法/Japanese - N2 grammar -～きり\|Japanese - N2 grammar -～きり]]               | Apr 10, 2024 |
-| [[Notes/LN - Japanese - Hiragana & katakana\|LN - Japanese - Hiragana & katakana]]   | Apr 10, 2024 |
+| Note                                                                                | Added        |
+| ----------------------------------------------------------------------------------- | ------------ |
+| [[Notes/LN - N2 grammar -～ことに\|LN - N2 grammar -～ことに]]                           | Apr 11, 2024 |
+| [[Japanese/文法/Japanese - N2 grammar -～ことに\|Japanese - N2 grammar -～ことに]]         | Apr 11, 2024 |
+| [[Notes/LN - N2 grammar -～ことなく\|LN - N2 grammar -～ことなく]]                         | Apr 11, 2024 |
+| [[Japanese/文法/Japanese - N2 grammar -～ことなく\|Japanese - N2 grammar -～ことなく]]       | Apr 11, 2024 |
+| [[Notes/LN - N2 grammar -～ことだ（感慨）\|LN - N2 grammar -～ことだ（感慨）]]                   | Apr 11, 2024 |
+| [[Japanese/文法/Japanese - N2 grammar -～ことだ（感慨）\|Japanese - N2 grammar -～ことだ（感慨）]] | Apr 11, 2024 |
+| [[Notes/LN - N2 grammar -～ことだ（忠告）\|LN - N2 grammar -～ことだ（忠告）]]                   | Apr 11, 2024 |
 # Recent Updates:
 
-| Note                                                                                    | Modified               |
-| --------------------------------------------------------------------------------------- | ---------------------- |
-| [[Notes/LN - N2 grammar -～げ\|LN - N2 grammar -～げ]]                                   | Apr 10, 2024, 10:46 PM |
-| [[Japanese/文法/Japanese - N2 grammar -～げ\|Japanese - N2 grammar -～げ]]                 | Apr 10, 2024, 10:42 PM |
-| [[Notes/LN - N2 grammar -～くせに・～くせして\|LN - N2 grammar -～くせに・～くせして]]                   | Apr 10, 2024, 10:27 PM |
-| [[Japanese/文法/Japanese - N2 grammar -～くせに・～くせして\|Japanese - N2 grammar -～くせに・～くせして]] | Apr 10, 2024, 10:20 PM |
-| [[Notes/LN - N2 grammar -～きり\|LN - N2 grammar -～きり]]                                 | Apr 10, 2024, 10:10 PM |
-| [[Japanese/文法/Japanese - N2 grammar -～きり\|Japanese - N2 grammar -～きり]]               | Apr 10, 2024, 10:07 PM |
-| [[Notes/LN - Japanese - Hiragana & katakana\|LN - Japanese - Hiragana & katakana]]   | Apr 10, 2024, 12:04 PM |
+| Note                                                                                | Modified              |
+| ----------------------------------------------------------------------------------- | --------------------- |
+| [[Notes/LN - N2 grammar -～ことに\|LN - N2 grammar -～ことに]]                           | Apr 11, 2024, 9:07 PM |
+| [[Japanese/文法/Japanese - N2 grammar -～ことに\|Japanese - N2 grammar -～ことに]]         | Apr 11, 2024, 9:06 PM |
+| [[Notes/LN - N2 grammar -～ことなく\|LN - N2 grammar -～ことなく]]                         | Apr 11, 2024, 8:51 PM |
+| [[Japanese/文法/Japanese - N2 grammar -～ことなく\|Japanese - N2 grammar -～ことなく]]       | Apr 11, 2024, 8:50 PM |
+| [[Notes/LN - N2 grammar -～ことだ（感慨）\|LN - N2 grammar -～ことだ（感慨）]]                   | Apr 11, 2024, 8:32 PM |
+| [[Japanese/文法/Japanese - N2 grammar -～ことだ（感慨）\|Japanese - N2 grammar -～ことだ（感慨）]] | Apr 11, 2024, 8:30 PM |
+| [[Japanese/文法/Japanese - N2 grammar -～ことだ（忠告）\|Japanese - N2 grammar -～ことだ（忠告）]] | Apr 11, 2024, 8:15 PM |
