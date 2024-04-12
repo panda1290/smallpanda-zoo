@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"link":"https://youtu.be/UdEXtcAHrio?si=rjaIy17pyc5RCZR_","permalink":"/Notes/LN - N2 grammar -～かぎり/","dgPassFrontmatter":true}
+{"dg-publish":true,"link":"https://youtu.be/UdEXtcAHrio?si=rjaIy17pyc5RCZR_","tags":["Japanese-grammar","N2"],"permalink":"/Notes/LN - N2 grammar -～かぎり/","dgPassFrontmatter":true}
 ---
 
 [[Japanese/文法/Japanese - N2 grammar -～かぎり#^e02d23\|Japanese - N2 grammar -～かぎり#^e02d23]]
