@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"link":"https://youtu.be/la5VjvBvcWQ?si=7eeiGdDnfLu_riIh","permalink":"/Notes/LN - N2 grammar -～ことに/","dgPassFrontmatter":true}
+{"dg-publish":true,"link":"https://youtu.be/la5VjvBvcWQ?si=7eeiGdDnfLu_riIh","tags":["Japanese-grammar","N2"],"permalink":"/Notes/LN - N2 grammar -～ことに/","dgPassFrontmatter":true}
 ---
 
 [[Japanese/文法/Japanese - N2 grammar -～ことに#^2d0f1b\|Japanese - N2 grammar -～ことに#^2d0f1b]]
