@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"link":"https://youtu.be/hyxqgVuJGlM?si=G0ZVRgBvXdYNF8v9","permalink":"/Notes/LN - N2 grammar -～きり/","dgPassFrontmatter":true}
+{"dg-publish":true,"link":"https://youtu.be/hyxqgVuJGlM?si=G0ZVRgBvXdYNF8v9","tags":["Japanese-grammar","N2"],"permalink":"/Notes/LN - N2 grammar -～きり/","dgPassFrontmatter":true}
 ---
 
 [[Japanese/文法/Japanese - N2 grammar -～きり#^ff4e43\|Japanese - N2 grammar -～きり#^ff4e43]]
