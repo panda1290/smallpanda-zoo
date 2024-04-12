@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/LN - Japanese - 特殊一类动词/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["Japanese-basic"],"permalink":"/Notes/LN - Japanese - 特殊一类动词/","dgPassFrontmatter":true}
 ---
 
 
