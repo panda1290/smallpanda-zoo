@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"link":"https://youtu.be/jQI2eMa-Okk?si=EqKKHR-AC22SDvtv","permalink":"/Notes/LN－N2 grammar -～気味/","dgPassFrontmatter":true}
+{"dg-publish":true,"link":"https://youtu.be/jQI2eMa-Okk?si=EqKKHR-AC22SDvtv","tags":["Japanese-grammar","N2"],"permalink":"/Notes/LN－N2 grammar -～気味/","dgPassFrontmatter":true}
 ---
 
 [[Japanese/文法/Japanese－N2 grammar -～気味#^fd636e\|Japanese－N2 grammar -～気味#^fd636e]]
