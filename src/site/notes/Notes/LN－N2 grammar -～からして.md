@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"link":"https://youtu.be/v7JYlTY6Pw8?si=ybQ_S4W3p4C8oBNj","permalink":"/Notes/LN－N2 grammar -～からして/","dgPassFrontmatter":true}
+{"dg-publish":true,"link":"https://youtu.be/v7JYlTY6Pw8?si=ybQ_S4W3p4C8oBNj","tags":["Japanese-grammar","N2"],"permalink":"/Notes/LN－N2 grammar -～からして/","dgPassFrontmatter":true}
 ---
 
 [[Japanese/文法/Japanese－N2 grammar -～からして#^fbc333\|Japanese－N2 grammar -～からして#^fbc333]]
