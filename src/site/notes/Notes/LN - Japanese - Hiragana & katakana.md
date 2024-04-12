@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"link":null,"permalink":"/Notes/LN - Japanese - Hiragana & katakana/","dgPassFrontmatter":true}
+{"dg-publish":true,"link":null,"tags":["Japanese-basic"],"permalink":"/Notes/LN - Japanese - Hiragana & katakana/","dgPassFrontmatter":true}
 ---
 
 
