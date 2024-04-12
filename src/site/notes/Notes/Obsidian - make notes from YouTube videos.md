@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"link":"https://youtu.be/qjWq4ck2-0o?si=6LhdeFRRmtqv_CKn","permalink":"/Notes/Obsidian - make notes from YouTube videos/","dgPassFrontmatter":true}
+{"dg-publish":true,"link":"https://youtu.be/qjWq4ck2-0o?si=6LhdeFRRmtqv_CKn","tags":["Obsidian"],"permalink":"/Notes/Obsidian - make notes from YouTube videos/","dgPassFrontmatter":true}
 ---
 
 https://youtu.be/qjWq4ck2-0o?si=6LhdeFRRmtqv_CKn
