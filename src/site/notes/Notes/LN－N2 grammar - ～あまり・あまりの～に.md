@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"link":"https://youtu.be/of-OKemjtIg?si=SVPxyx6m5aGjqYg3","permalink":"/Notes/LN－N2 grammar - ～あまり・あまりの～に/","dgPassFrontmatter":true}
+{"dg-publish":true,"link":"https://youtu.be/of-OKemjtIg?si=SVPxyx6m5aGjqYg3","tags":["Japanese-grammar","N2"],"permalink":"/Notes/LN－N2 grammar - ～あまり・あまりの～に/","dgPassFrontmatter":true}
 ---
 
 [[Japanese/文法/Japanese－N2 grammar - ～あまり・あまりの～に#^2262d6\|Japanese－N2 grammar - ～あまり・あまりの～に#^2262d6]]
