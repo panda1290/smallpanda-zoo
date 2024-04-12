@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Obsidian - post updated index/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["Obsidian"],"permalink":"/Notes/Obsidian - post updated index/","dgPassFrontmatter":true}
 ---
 
 
 
-When post updated [[index\|index]]
+When post updated [[Publish index\|Publish index]]
 
 It will automatic add a new row of '// Update Publish Files.md'.
 
