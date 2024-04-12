@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"link":"https://youtu.be/8eR4uv3Teqo?si=4PABSMn-rirKcqQh","permalink":"/Notes/LN－N2 grammar -～以上/","dgPassFrontmatter":true}
+{"dg-publish":true,"link":"https://youtu.be/8eR4uv3Teqo?si=4PABSMn-rirKcqQh","tags":["Japanese-grammar","N2"],"permalink":"/Notes/LN－N2 grammar -～以上/","dgPassFrontmatter":true}
 ---
 
  [[Japanese/文法/Japanese－N2 grammar -～以上#^5d7a58\|Japanese－N2 grammar -～以上#^5d7a58]]
