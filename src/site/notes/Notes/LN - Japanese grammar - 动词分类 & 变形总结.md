@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"link":"https://www.bilibili.com/video/BV1jN411Q7qM/?share_source=copy_web&vd_source=8f841b5e2fc684c89ab1c878bb948cc7","permalink":"/Notes/LN - Japanese grammar - 动词分类 & 变形总结/","dgPassFrontmatter":true}
+{"dg-publish":true,"link":"https://www.bilibili.com/video/BV1jN411Q7qM/?share_source=copy_web&vd_source=8f841b5e2fc684c89ab1c878bb948cc7","tags":["Japanese-basic"],"permalink":"/Notes/LN - Japanese grammar - 动词分类 & 变形总结/","dgPassFrontmatter":true}
 ---
 
 https://www.bilibili.com/video/BV1jN411Q7qM/?share_source=copy_web&vd_source=8f841b5e2fc684c89ab1c878bb948cc7
