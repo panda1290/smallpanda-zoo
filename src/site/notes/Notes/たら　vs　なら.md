@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/たら　vs　なら/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["Japanese-confuse"],"permalink":"/Notes/たら　vs　なら/","dgPassFrontmatter":true}
 ---
 
 **Question : Both of them means 'if', what's the difference between them?**
