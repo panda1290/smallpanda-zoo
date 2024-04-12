@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"link":"https://youtu.be/NjiBfERrh2c?si=BHbDWBz3qyPHxK6U","permalink":"/Notes/LN - N2 grammar -～くせに・～くせして/","dgPassFrontmatter":true}
+{"dg-publish":true,"link":"https://youtu.be/NjiBfERrh2c?si=BHbDWBz3qyPHxK6U","tags":["Japanese-grammar","N2"],"permalink":"/Notes/LN - N2 grammar -～くせに・～くせして/","dgPassFrontmatter":true}
 ---
 
 [[Japanese/文法/Japanese - N2 grammar -～くせに・～くせして#^2d2e9c\|Japanese - N2 grammar -～くせに・～くせして#^2d2e9c]]
