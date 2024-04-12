@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"link":"https://youtu.be/8MK23odknRA?si=Vd_uvtzgxytS55nv","permalink":"/Notes/LN - N2 grammar -～げ/","dgPassFrontmatter":true}
+{"dg-publish":true,"link":"https://youtu.be/8MK23odknRA?si=Vd_uvtzgxytS55nv","tags":["Japanese-grammar","N2"],"permalink":"/Notes/LN - N2 grammar -～げ/","dgPassFrontmatter":true}
 ---
 
 [[Japanese/文法/Japanese - N2 grammar -～げ#^ce1a94\|Japanese - N2 grammar -～げ#^ce1a94]]
