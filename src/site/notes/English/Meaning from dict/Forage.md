@@ -21,6 +21,6 @@ _noun_
     
     a wide search over an area in order to obtain something, especially food or provisions.
 
-vocabs meaning from resources [[resources/Other platforms - English\|Other platforms - English]] - 
+vocabs meaning from resources [[998 resources/Other platforms - English\|Other platforms - English]] - 
 
 word [[English/vocabs/Forage\|English/vocabs/Forage]] - meaning: search widely for food or provisions.
