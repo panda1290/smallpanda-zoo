@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"link":"https://youtu.be/q6-vDbkUCuQ?si=12NFICApTSHIVFRM","tags":["Japanese-grammar","N2"],"permalink":"/Notes/LN－N2 grammar -～がたい/","dgPassFrontmatter":true}
----
-
-[[Japanese/文法/Japanese－N2 grammar -～がたい#^4cf845\|Japanese－N2 grammar -～がたい#^4cf845]]
-
-彼はもう30歳が、いつも両親からお金を取ってくれて、理解しがたい。
