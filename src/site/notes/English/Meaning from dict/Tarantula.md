@@ -15,7 +15,7 @@ _noun_
     
     a large black wolf spider of southern Europe, whose bite was formerly believed to cause [tarantism](https://www.google.com/search?sca_esv=421dc4c8986dd1d4&rlz=1C1JZAP_enMY772MY778&sxsrf=ACQVn0-nwqwaoo33WBBtv8KpQd4fs-JuSA:1709988323789&q=tarantism&si=AKbGX_rLPMdHnrrwkrRo4VZlSHiJ6oTcHpK_0XmX6O7kled4cmh8l_kxkdKC1f2aXX8KgQEsqaAKVgP9ObP-1ymVZrmRKUATqgi26s3L81DiCBQi7flP00Q%3D&expnd=1).
 
-Resources from: [[resources/Other platforms - English\|Other platforms - English]]
+Resources from: [[998 resources/Other platforms - English\|Other platforms - English]]
 
 Vocab: [[English/vocabs/Tarantula\|Tarantula]]
 
