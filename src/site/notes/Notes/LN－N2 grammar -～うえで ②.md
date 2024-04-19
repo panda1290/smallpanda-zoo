@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"link":"https://youtu.be/3-2E8UOc_Uk?si=2didcfoy0X8gJPUw","tags":["Japanese-grammar","N2"],"permalink":"/Notes/LN－N2 grammar -～うえで ②/","dgPassFrontmatter":true}
----
-
-[[Japanese/文法/Japanese－N2 grammar -～うえで ②#^2bc629\|Japanese－N2 grammar -～うえで ②#^2bc629]]
-
-この契約書をよく見たうえで、サインでください。
